@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio – LFS SOLUTIONS
 
-Welcome to my professional data analytics portfolio!  
+Welcome to our professional data analytics portfolio!  
 This repository showcases the skills and projects developed through the **LFS SOLUTIONS Data Analyst Associate Programme**, using tools like **Power BI**, **SQL**, **Python**, and **Excel**.
 
 ---
@@ -8,36 +8,45 @@ This repository showcases the skills and projects developed through the **LFS SO
 ## 🔍 Projects Summary
 
 ### 📈 Power BI
-- **Sales Dashboard**: Trends, KPIs, and regional sales.
-- **Customer Retention**: Churn rates, loyalty, and lifetime value.
+- **Sales Dashboard**: Trends, KPIs, and regional sales performance.
+- **Customer Retention Report**: Churn rates and customer loyalty insights.
 
 ### 🗃 SQL
-- **E-Commerce Analysis**: Orders, revenue, and product trends.
-- **Customer Segmentation**: Behavior-based classification.
+- **E-Commerce Queries**: Order and product analytics.
+- **Customer Segmentation**: Behavior-based SQL classification.
 
 ### 🐍 Python
-- **Data Cleaning**: Clean and prep raw data.
-- **EDA**: Explore and visualize trends using Python.
+- **Data Cleaning Notebook**: Handling nulls, outliers, formatting.
+- **Exploratory Data Analysis**: Visual trends using Matplotlib and Seaborn.
 
 ### 📊 Excel
-- **Revenue Tracker**: Monthly and regional performance.
-- **Cleaning Tasks**: Using functions and pivot tables.
+- **Revenue Tracker Dashboard**: Monthly and regional breakdowns.
+- **Excel Cleaning Project**: Pivot tables, functions, and formatting.
 
 ### 🎓 Case Studies
-- **Google Capstone**: Real-world business challenge.
-- **Dashboard Challenge**: Insight-driven storytelling.
+- **Google Capstone Project**: Real-world business data challenge.
+- **Dashboard Challenge**: Visual storytelling from raw data.
 
 ---
 
 ## 💼 Skills Demonstrated
-- Data Wrangling
-- Visualization (Power BI & Excel)
-- SQL for Business Intelligence
-- Python for Data Analysis
+
+- Data Cleaning & Wrangling  
+- Business Intelligence Reporting  
+- Data Visualization (Power BI, Excel)  
+- SQL Querying for Analytics  
+- Python for Data Analysis  
+- Case Study Thinking & Communication
 
 ---
 
 ## 📫 Contact
-🌐 Website: [lfsolutions.co.za](https://lfsolutions.co.za)  
+
+🌐 Website: (https://lfsolutions.co.za)  
 📧 Email: admin@lfsolutions.co.za  
-📱 WhatsApp: +27 78 324 5447
+📱 WhatsApp: +27 78 324 5447  
+📍 Based in South Africa
+
+---
+
+> This portfolio is part of the **LFS SOLUTIONS Data Analyst Associate Programme**, helping learners in South Africa and beyond build real-world skills and pass international certification exams.
